@@ -1,7 +1,7 @@
 name: flutter_dynamic_color_switching
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://github.com/chetan9357/flutter_dynamic_color_switching
+homepage: https://github.com/Excelsior-Technologies-Community/flutter_dynamic_color_switching
 
 environment:
   sdk: ^3.8.1
